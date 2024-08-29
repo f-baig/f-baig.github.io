@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="profile.jpeg" width="20%" height="20%">
+  <img src="profile.jpeg" width="25%" height="25%">
 </p>
 
 Hello! I am a current undergradute studying Computer Science and Mathematics at Yale University. 
 
-My interests lie in financial modeling (particularly as it relates to volatility and derivatives), ML inference optimization, distributed systems, and low latency systems. I'm also particularly interested in the atartup space and venture capital.
+My interests lie in financial modeling (particularly as it relates to volatility), ML inference optimization, distributed systems, and low latency systems. I'm also quite interested in the startup space and venture capital.
 
 Below I have listed my current experience, as well as any relevant contact links. 
 
@@ -17,7 +17,7 @@ Below I have listed my current experience, as well as any relevant contact links
 
 ### Experience
 
-- Undergraduate Learning Assistant (Data Structures and Programming Techniques) @ Yale University
+- Undergraduate Learning Assistant (Data Structures and Programming Techniques in C++) @ Yale University
 - Tobin Economics Research Assistant @ Yale School of Management
 - Neural Decoding (ML) Research Assistant @ Yale Department of Statistics
 - Software Developer @ The Founder Series
