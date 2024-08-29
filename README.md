@@ -1,6 +1,10 @@
-<img src="profile.jpeg" width="20%" height="20%">
+<p align="center">
+  <img src="profile.jpeg" width="20%" height="20%">
+</p>
 
-Hello! I am a current undergradute studying Computer Science and Mathematics at Yale University. My ineterests lie in financial modeling (particularly as it relates to volatility and derivatives), ML inference optimization, distributed systems, and low latency systems. I'm also particularly interested in the atartup space, and venture capital.
+Hello! I am a current undergradute studying Computer Science and Mathematics at Yale University. 
+
+My interests lie in financial modeling (particularly as it relates to volatility and derivatives), ML inference optimization, distributed systems, and low latency systems. I'm also particularly interested in the atartup space and venture capital.
 
 Below I have listed my current experience, as well as any relevant contact links. 
 
