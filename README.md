@@ -6,12 +6,12 @@ Below I have listed my current experience, as well as any relevant contact links
 
 [Linkedin](https://www.linkedin.com/in/baig-farhan/) | [Email](mailto:farhan.baig@yale.edu) | [Github](https://github.com/f-baig)
 
-# Education
+### Education
 
 - B.S. in Computer Science and Mathematics @ Yale University
 - Options Pricing & Financial Risk @ London School of Economics
 
-# Experience
+### Experience
 
 - Undergraduate Learning Assistant (Data Structures and Programming Techniques) @ Yale University
 - Tobin Economics Research Assistant @ Yale School of Management
