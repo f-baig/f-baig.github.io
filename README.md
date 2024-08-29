@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile.jpeg" width="30%" height="30%">
+  <img src="profile.jpeg" width="35%" height="35%">
 </p>
 
 Hello! I am a current undergradute studying Computer Science and Mathematics at Yale University. 
