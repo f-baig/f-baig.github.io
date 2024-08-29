@@ -1,2 +1,2 @@
-# f-baig.github.io
+# Farhan
 my personal website
