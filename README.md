@@ -21,3 +21,8 @@ Below I have listed my current experience, as well as any relevant contact links
 - Tobin Economics Research Assistant @ Yale School of Management
 - Neural Decoding (ML) Research Assistant @ Yale Department of Statistics
 - Software Developer @ The Founder Series
+
+### Conferences/Works
+
+E. Meyers, F. Baig, et al. Decoding prefrontal cortex dynamics: unveiling information processing with Neuropixel recordings. 
+  Presenting at Society for Neuroscience, 2024.
