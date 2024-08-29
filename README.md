@@ -15,14 +15,14 @@ Below I have listed my current experience, works, as well as any relevant contac
 - E. Meyers, F. Baig, et al. *Decoding prefrontal cortex dynamics: unveiling information processing with Neuropixel recordings.*
   - Presenting at Society for Neuroscience, 2024.
     
-### Education
-
-- B.S. in Computer Science and Mathematics @ Yale University
-- Options Pricing & Financial Risk @ London School of Economics
-
 ### Experience
 
 - Undergraduate Learning Assistant (Data Structures and Programming Techniques in C++) @ Yale University
 - Tobin Economics Research Assistant @ Yale School of Management
 - Neural Decoding (ML) Research Assistant @ Yale Department of Statistics
 - Software Developer @ The Founder Series
+    
+### Education
+
+- B.S. in Computer Science and Mathematics @ Yale University
+- Options Pricing & Financial Risk @ London School of Economics
