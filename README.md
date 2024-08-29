@@ -1,4 +1,4 @@
-![small](../main/profile.jpeg | width=100)
+<img src="https://profile.jpeg" width="100" height="100">
 
 Hello! I am a current undergradute studying Computer Science and Mathematics at Yale University. My ineterests lie in financial modeling (particularly as it relates to volatility and derivatives), ML inference optimization, distributed systems, and low latency systems. I'm also particularly interested in the atartup space, and venture capital.
 
