@@ -4,7 +4,7 @@
 
 Hello! I am a current undergradute studying Computer Science and Mathematics at Yale University. 
 
-My interests lie in financial modeling (particularly as it relates to volatility), ML inference optimization, distributed systems, and low latency systems. I'm also quite interested in the startup space and venture capital. I've have taken coursework in mathematical finance, data structures, systems programming, algorithms, optimization, and economic theory. My GitHub has been rather inactive recently, however that will cahnge.
+My interests lie in financial modeling (particularly as it relates to volatility), ML inference optimization, distributed systems, and low latency systems. I'm also quite interested in the startup space and venture capital. I've have taken coursework in mathematical finance, data structures, systems programming, algorithms, optimization, and economic theory. My GitHub has been rather inactive recently, however that will change.
 
 <sub><sup>(Currently auditing a compilers course).</sup></sub>
 
