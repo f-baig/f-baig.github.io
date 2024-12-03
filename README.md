@@ -5,10 +5,9 @@
 Hello! I am a current undergradute studying Computer Science and Mathematics at Yale University. 
 
 My interests lie in compilers, ML inference optimization, financial modeling (particularly as it relates to volatility), distributed systems, and low latency systems. I'm also quite interested in the startup space. I've have taken coursework in mathematical finance, data structures, systems programming, algorithms, optimization, and economic theory.
-
 <sub><sup>(Currently auditing a compilers course).</sup></sub>
 
-Below I have listed my current experience, works, as well as any relevant contact links. 
+Below I have listed my current experience, works, as well as any relevant contact links. Some are currently being updated so sorry if anything is missing!
 
 [Linkedin](https://www.linkedin.com/in/baig-farhan/) | [Email](mailto:farhan.baig@yale.edu) | [Github](https://github.com/f-baig)
 
