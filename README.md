@@ -4,8 +4,7 @@
 
 Hello! I am currently an undergraduate studying Computer Science and Mathematics at Yale University. 
 
-My interests lie in compilers, ML inference optimization, machine interpretability, financial modeling (particularly as it relates to derivatives and volatility), distributed systems, and low latency systems. I'm also quite interested in the startup space. I have taken coursework in mathematical finance, data structures, systems programming, algorithms, optimization, and economic theory.
-<sub><sup>(Currently auditing a compilers course).</sup></sub>
+My interests lie in compilers, ML inference optimization, machine interpretability, finance (particularly as it relates to predictive models), distributed systems, and low latency systems. I'm also quite interested in the startup space. I have taken coursework in mathematical finance, data structures, systems programming, algorithms, optimization, and economic theory.
 
 Below I have listed my current experience, works, as well as any relevant contact links. Some are currently being updated so sorry if anything is missing!
 
