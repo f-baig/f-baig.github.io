@@ -9,21 +9,22 @@ My interests lie in compilers, ML inference optimization, machine interpretabili
 
 Below I have listed my current experience, works, as well as any relevant contact links. Some are currently being updated so sorry if anything is missing!
 
-[Linkedin](https://www.linkedin.com/in/baig-farhan/) | [Email](mailto:farhan.baig@yale.edu) | [Github](https://github.com/f-baig)
+[Linkedin](https://www.linkedin.com/in/baig-farhan/) | [Email](mailto:farhan.baig@yale.edu) | [Github](https://github.com/f-baig) | [Substack](https://frhnb.substack.com/)
 
 ### Conferences/Works
 
 - E. Meyers, F. Baig, et al. *Decoding prefrontal cortex dynamics: unveiling information processing with Neuropixel recordings.*
-  - Presenting at Society for Neuroscience, 2024.
+  - Presented at Society for Neuroscience, 2024.
     
 ### Experience
 
+- ML Compilers @ Qualcomm
 - Undergraduate Learning Assistant (Data Structures and Programming Techniques in C++) @ Yale University
-- Tobin Economics Research Assistant @ Yale School of Management
-- Neural Decoding (ML) Research Assistant @ Yale Department of Statistics
+- ML Research Assistant @ Yale Department of Statistics
 - Software Developer @ The Founder Series
+- Tobin Economics Research Assistant @ Yale School of Management
     
 ### Education
 
-- B.S. in Computer Science and Mathematics @ Yale University
+- B.S. in Computer Science and Statistics @ Yale University
 - Options Pricing & Financial Risk @ London School of Economics
