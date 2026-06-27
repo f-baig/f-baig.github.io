@@ -8,7 +8,7 @@ My interests lie in compilers, ML inference optimization, machine interpretabili
 
 Below I have listed my current experience, works, as well as any relevant contact links. Some are currently being updated so sorry if anything is missing!
 
-[Linkedin](https://www.linkedin.com/in/baig-farhan/) | [Email](mailto:farhan.baig@yale.edu) | [Github](https://github.com/f-baig) | [Substack](https://frhnb.substack.com/)
+[Linkedin](https://www.linkedin.com/in/baig-farhan/) | [Email](mailto:farhan.baig@yale.edu) | [Github](https://github.com/f-baig) | [Blog](./blog/)
 
 ### Conferences/Works
 
